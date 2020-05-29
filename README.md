@@ -1,2 +1,2 @@
 # The hangman
-> The hangman game written in java
+> The hangman game is written in java
